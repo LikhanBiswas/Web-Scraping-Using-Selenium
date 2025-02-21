@@ -7,7 +7,7 @@ import time
 
 
 website = 'https://www.adamchoi.co.uk/overs/detailed'
-path = r'C:\Users\HP\Documents\chromedriver-win64\chromedriver.exe'  # Use raw string for Windows path
+path = r'C:\Users\HP\Documents\chromedriver-win64\chromedriver.exe'  
 
 service = Service(executable_path=path)
 
